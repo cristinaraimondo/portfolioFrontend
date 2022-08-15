@@ -1,0 +1,36 @@
+.container-fluid{
+    width: auto;
+    background: rgb(255, 254, 254);
+}
+
+nav img{
+   
+    margin-left: 20px;
+    
+   }
+
+   nav{
+    float: left;
+    margin-top: 70px;
+    
+
+   }
+   .text-info{
+ padding-top: 20px;
+   }
+   .fa-facebook-official{
+   float: right;
+    
+   }
+.img-fluid{
+    position: relative;
+}
+.rounded-circle{
+    position:absolute;
+ top:420px;
+ left:20px;
+ 
+}
+body{
+    background: rgb(255, 255, 255);
+}
